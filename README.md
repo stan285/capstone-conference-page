@@ -1,1 +1,1 @@
-# capstone-conference-page
+# conference-page
